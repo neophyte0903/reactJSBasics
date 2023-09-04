@@ -1,6 +1,6 @@
 //import ListGroup from "./components/ListGroup";
 //import Alert from "./components/Alert";
-import Button from "./components/button";
+import Button from "./components/Button";
 
 function App() {
   // let items = ["New Delhi", "Noida", "Bareilly", "Ahemdabad", "Patna"];
